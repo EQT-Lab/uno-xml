@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+<PED Tipo="PROJETOPED" CodigoEmpresa="00037">
+  <PD_ProjetoBase>
+    <AvIniANEEL>N</AvIniANEEL>
+    <Titulo>Priorização Inteligente de zonas para regularização de clandestinos através de imagens de satélites e análise de viabilidade financeira</Titulo>
+    <Duracao>18</Duracao>
+    <Segmento>D</Segmento>
+    <CodTema>MF</CodTema>
+    <OutroTema></OutroTema>
+    <Subtemas>
+      <Subtema>
+        <CodSubtema>MF03</CodSubtema>
+        <OutroSubtema></OutroSubtema>
+      </Subtema>
+    </Subtemas>
+    <FaseInovacao>DE</FaseInovacao>
+    <TipoProduto>SM</TipoProduto>
+    <DescricaoProduto>Sistema inteligente que priorize áreas para investimentos em regularização de clandestinos, através da identificação de áreas por imagens de satélite e análise de viabilidade e retorno financeiro para priorização de ações.</DescricaoProduto>
+    <Motivacao>Atualmente os esforços e planejamento de ações de regularização a áreas com clandestinos depende de denuncias ou identificação por parte de equipes de campo. Logo não existe um real dimensionamento do tamanho e localização das áreas de gambiarra além da energia perdida medida. A inexistência de ferramenta de mapeamento de unidades à revelia da concessionária e a dispersão de perdas não técnicas nos interiores vem dificultando o seu mapeamento na área de concessão e impedindo a estruturação de um plano de longo prazo que faça frente à velocidade dos entrantes.</Motivacao>
+    <Originalidade>A originalidade do projeto está na priorização inteligente dos investimentos de regularização de gambiarras, visando realizar as ações com mehores retornos e menores investimentos utilizando inteligência artificial e análises multicriterio. Este algoritmo avaliará as condições das áreas identificadas e fará a projeção de custos estimados de regularização, partindo do mapeamento das perdas não técnicas via processamento de imagens de satélite e consequente melhor direcionamento das ações de regularização. Não existe solução de mercado que identifique áreas de gambiarra via imagens de satélite e priorize quais zonas tem maior viabilidade financeira de forma a ordenar e otimizar os investimentos em regularização.</Originalidade>
+    <Aplicabilidade>Todas as distribuidoras do grupo tem a necessidade de identificar a real dimensão e localização das áreas de gambiarra de seus estados, logo o sistema será entregue para as áreas de combate a perdas e planejamento da expansão da rede elétrica. Além disso o projeto será aplicado na definição dos investimentos anuais, pois indicará quais obras de regularização serão priorizadas. O projeto será desenvolvido e testado para a concessão do Maranhão, prevento a expansão para as outras concessões da Equatorial pós projeto: Alagoas, Piauí, Pará, Amapá, Rio Grande do Sul e Goiás.</Aplicabilidade>
+    <Relevancia>Projeto prevê cursos de capacitação no formato de MBA e certificações para a equipe de gestão, com a confecção de trabalhos de conclusão associados ao tema do projeto, escrita e submissão de artigos científicos. Tema será ainda desenvolvido como tema de trabalho de conclusão de curso de alunos de graduação. O projeto possui ainda um viés bastante prático pois será executado pelo laboratório de inovação da Equatorial, lançando um novo conceito de desenvolvimento de projetos com foco no resultado, gerando um time próprio e capacitado para desenvolvimento de soluções digitais no setor elétrico, seguindo a tendência global.</Relevancia>
+    <RazoabCustos>Premissas: Redução de 20% da do custo de prospecção em alimentadores; Redução de 5% do custo de gambiarras (aumento de concentração); Base de com validade de 2 anos (impacto nos projetos de gambiarra de 2023 e 2024); Contratação anual de identificação por satélite R$ 2.300.000,00 + Máquinas para processamento de imagem (R$ 160.000,00) Resultados: TIR: 31,18%; VPL: R$ 642.989,92; Payback: 2 anos</RazoabCustos>
+    <PesqCorrelata>PD-00382-0042 LIGHT SERVIÇOS DE ELETRICIDADE S A Sistema de Inteligência para Otimização dos Investimentos em Novas Tecnologias para Redução de Perdas; PD-00063-3065 COMPANHIA PAULISTA DE FORÇA E LUZ PA3065 - Sistema para Detectar Perdas Não Técnicas em Áreas de Irrigação Empregando Técnicas de Inteligência Artificial; PD-00385-0034 ELEKTRO REDES S.A. Metodologia de Implantação de Gerenciamento de Decisão para o Processo de Perdas não Técnicas; PD-00063-3037 COMPANHIA PAULISTA DE FORÇA E LUZ PA3037 - Aplicação de Machine Learning para redução de perdas e recuperação de receita</PesqCorrelata>
+  </PD_ProjetoBase>
+  <PD_Equipe>
+    <Empresas>
+      <Empresa>
+        <CodEmpresa>00037</CodEmpresa>
+        <TipoEmpresa>P</TipoEmpresa>
+        <Equipe>
+          <EquipeEmpresa>
+            <NomeMbEqEmp>Lucas de Paula Assunção Pinheiro</NomeMbEqEmp>
+            <CpfMbEqEmp>02750078393</CpfMbEqEmp>
+            <TitulacaoMbEqEmp>ME</TitulacaoMbEqEmp>
+            <FuncaoMbEqEmp>GE</FuncaoMbEqEmp>
+          </EquipeEmpresa>
+        </Equipe>
+      </Empresa>
+      <Empresa>
+        <CodEmpresa>00038</CodEmpresa>
+        <TipoEmpresa>C</TipoEmpresa>
+        <Equipe>
+          <EquipeEmpresa>
+            <NomeMbEqEmp>Gilvan Rodrigues Monteiro</NomeMbEqEmp>
+            <CpfMbEqEmp>80180124315</CpfMbEqEmp>
+            <TitulacaoMbEqEmp>SU</TitulacaoMbEqEmp>
+            <FuncaoMbEqEmp>PE</FuncaoMbEqEmp>
+          </EquipeEmpresa>
+        </Equipe>
+      </Empresa>
+      <Empresa>
+        <CodEmpresa>00371</CodEmpresa>
+        <TipoEmpresa>C</TipoEmpresa>
+        <Equipe>
+          <EquipeEmpresa>
+            <NomeMbEqEmp>Julio Cesar Mendes</NomeMbEqEmp>
+            <CpfMbEqEmp>71359478353</CpfMbEqEmp>
+            <TitulacaoMbEqEmp>ME</TitulacaoMbEqEmp>
+            <FuncaoMbEqEmp>PE</FuncaoMbEqEmp>
+          </EquipeEmpresa>
+        </Equipe>
+      </Empresa>
+      <Empresa>
+        <CodEmpresa>00044</CodEmpresa>
+        <TipoEmpresa>C</TipoEmpresa>
+        <Equipe>
+          <EquipeEmpresa>
+            <NomeMbEqEmp>EDMILSON DE LIMA SANTOS</NomeMbEqEmp>
+            <CpfMbEqEmp>02826685430</CpfMbEqEmp>
+            <TitulacaoMbEqEmp>SU</TitulacaoMbEqEmp>
+            <FuncaoMbEqEmp>PE</FuncaoMbEqEmp>
+          </EquipeEmpresa>
+        </Equipe>
+      </Empresa>
+      <Empresa>
+        <CodEmpresa>05707</CodEmpresa>
+        <TipoEmpresa>C</TipoEmpresa>
+        <Equipe>
+          <EquipeEmpresa>
+            <NomeMbEqEmp>Jonatan Silva da Silva</NomeMbEqEmp>
+            <CpfMbEqEmp>01747078000</CpfMbEqEmp>
+            <TitulacaoMbEqEmp>ME</TitulacaoMbEqEmp>
+            <FuncaoMbEqEmp>PE</FuncaoMbEqEmp>
+          </EquipeEmpresa>
+        </Equipe>
+      </Empresa>
+    </Empresas>
+    <Executoras>
+      <Executora>
+        <CNPJExec>41862338000130</CNPJExec>
+        <RazaoSocialExec>Instituto Equatorial</RazaoSocialExec>
+        <UfExec>MA</UfExec>  
+        <Equipe>
+          <EquipeExec>
+            <NomeMbEqExec>Product Owner</NomeMbEqExec>
+            <BRMbEqExec>S</BRMbEqExec>
+            <DocMbEqExec>00000000000</DocMbEqExec>
+            <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+            <FuncaoMbEqExec>CO</FuncaoMbEqExec> 
+          </EquipeExec>
+          <EquipeExec>
+            <NomeMbEqExec>Analistas de desenvolvimento de front end</NomeMbEqExec>
+            <BRMbEqExec>S</BRMbEqExec>
+            <DocMbEqExec>00000000000</DocMbEqExec>
+            <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+            <FuncaoMbEqExec>PE</FuncaoMbEqExec>
+          </EquipeExec>
+          <EquipeExec>
+            <NomeMbEqExec>Analistas de desenvolvimento de front end</NomeMbEqExec>
+            <BRMbEqExec>S</BRMbEqExec>
+            <DocMbEqExec>00000000000</DocMbEqExec>
+            <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+            <FuncaoMbEqExec>PE</FuncaoMbEqExec>
+          </EquipeExec>
+          <EquipeExec>
+            <NomeMbEqExec>Desenvolvedor IOS</NomeMbEqExec>
+            <BRMbEqExec>S</BRMbEqExec>
+            <DocMbEqExec>00000000000</DocMbEqExec>
+            <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+            <FuncaoMbEqExec>PE</FuncaoMbEqExec>
+          </EquipeExec>
+          <EquipeExec>
+            <NomeMbEqExec>Desenvolvedor Android</NomeMbEqExec>
+            <BRMbEqExec>S</BRMbEqExec>
+            <DocMbEqExec>00000000000</DocMbEqExec>
+            <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+            <FuncaoMbEqExec>PE</FuncaoMbEqExec>
+          </EquipeExec>
+          <EquipeExec>
+            <NomeMbEqExec>Analistas de Desenvolvimento Backend</NomeMbEqExec>
+            <BRMbEqExec>S</BRMbEqExec>
+            <DocMbEqExec>00000000000</DocMbEqExec>
+            <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+            <FuncaoMbEqExec>PE</FuncaoMbEqExec>
+          </EquipeExec>
+          <EquipeExec>
+            <NomeMbEqExec>Analistas de Desenvolvimento Backend</NomeMbEqExec>
+            <BRMbEqExec>S</BRMbEqExec>
+            <DocMbEqExec>00000000000</DocMbEqExec>
+            <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+            <FuncaoMbEqExec>PE</FuncaoMbEqExec>
+          </EquipeExec>
+          <EquipeExec>
+            <NomeMbEqExec>Analistas de Desenvolvimento Backend</NomeMbEqExec>
+            <BRMbEqExec>S</BRMbEqExec>
+            <DocMbEqExec>00000000000</DocMbEqExec>
+            <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+            <FuncaoMbEqExec>PE</FuncaoMbEqExec>
+          </EquipeExec>
+          <EquipeExec>
+            <NomeMbEqExec>Arquiteto de Solução</NomeMbEqExec>
+            <BRMbEqExec>S</BRMbEqExec>
+            <DocMbEqExec>00000000000</DocMbEqExec>
+            <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+            <FuncaoMbEqExec>PE</FuncaoMbEqExec>
+          </EquipeExec>
+          <EquipeExec>
+            <NomeMbEqExec>Analista de Teste</NomeMbEqExec>
+            <BRMbEqExec>S</BRMbEqExec>
+            <DocMbEqExec>00000000000</DocMbEqExec>
+            <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+            <FuncaoMbEqExec>PE</FuncaoMbEqExec>
+          </EquipeExec>
+          <EquipeExec>
+            <NomeMbEqExec>Especialista de PeD</NomeMbEqExec>
+            <BRMbEqExec>S</BRMbEqExec>
+            <DocMbEqExec>00000000000</DocMbEqExec>
+            <TitulacaoMbEqExec>SU</TitulacaoMbEqExec>
+            <FuncaoMbEqExec>PE</FuncaoMbEqExec>
+          </EquipeExec>
+        </Equipe>
+      </Executora>
+    </Executoras> 
+  </PD_Equipe>
+  <PD_Recursos>
+    <RecursoEmpresa>
+      <CodEmpresa>00037</CodEmpresa>
+      <DestRecursosExec>
+        <CNPJExec>41862338000130</CNPJExec>
+        <CustoCatContabilExec>
+          <CatContabil>RH</CatContabil>
+          <CustoExec>3.326.400,00</CustoExec>
+        </CustoCatContabilExec>
+        <CustoCatContabilExec>
+          <CatContabil>st</CatContabil>
+          <CustoExec>2.600.000,00</CustoExec>
+        </CustoCatContabilExec>
+        <CustoCatContabilExec>
+          <CatContabil>VD</CatContabil>
+          <CustoExec>50.000,00</CustoExec>
+        </CustoCatContabilExec>
+        <CustoCatContabilExec>
+          <CatContabil>OU</CatContabil>
+          <CustoExec>972.902,33</CustoExec>
+        </CustoCatContabilExec>
+      </DestRecursosExec>
+      <DestRecursosEmp>
+        <CustoCatContabilEmp>
+          <CatContabil>VD</CatContabil>
+          <CustoEmp>10.000,00</CustoEmp>
+        </CustoCatContabilEmp>
+      </DestRecursosEmp>
+    </RecursoEmpresa>
+    <RecursoEmpresa>
+      <CodEmpresa>00038</CodEmpresa>
+      <DestRecursosEmp>
+        <CustoCatContabilEmp>
+          <CatContabil>ST</CatContabil>
+          <CustoEmp>400.000,00</CustoEmp>
+        </CustoCatContabilEmp>
+        <CustoCatContabilEmp>
+          <CatContabil>MP</CatContabil>
+          <CustoEmp>384.000,00</CustoEmp>
+        </CustoCatContabilEmp>
+        <CustoCatContabilEmp>
+          <CatContabil>OU</CatContabil>
+          <CustoEmp>15.000,00</CustoEmp>
+        </CustoCatContabilEmp>
+      </DestRecursosEmp>
+    </RecursoEmpresa>
+    <RecursoEmpresa>
+      <CodEmpresa>00044</CodEmpresa>
+      <DestRecursosEmp>
+        <CustoCatContabilEmp>
+          <CatContabil>ST</CatContabil>
+          <CustoEmp>10.000,00</CustoEmp>
+        </CustoCatContabilEmp>
+      </DestRecursosEmp>
+    </RecursoEmpresa>
+    <RecursoEmpresa>
+      <CodEmpresa>00371</CodEmpresa>
+      <DestRecursosEmp>
+        <CustoCatContabilEmp>
+          <CatContabil>ST</CatContabil>
+          <CustoEmp>10.000,00</CustoEmp>
+        </CustoCatContabilEmp>
+      </DestRecursosEmp>
+    </RecursoEmpresa>
+    <RecursoEmpresa>
+      <CodEmpresa>05707</CodEmpresa>
+      <DestRecursosEmp>
+        <CustoCatContabilEmp>
+          <CatContabil>ST</CatContabil>
+          <CustoEmp>10.000,00</CustoEmp>
+        </CustoCatContabilEmp>
+      </DestRecursosEmp>
+    </RecursoEmpresa>
+  </PD_Recursos>
+</PED>
